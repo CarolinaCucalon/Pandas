@@ -1,0 +1,101 @@
+Cédula;Nombre;Apellido;Semestre ;Materia;Promedio
+976182723;Jose ;Murillo;I;Matemáticas;10
+981726354;Sofia ;Carriel;I;Matemáticas;9
+912983476;Karla ;Menendez;I;Matemáticas;7
+956438912;Xavier ;Jacome;I;Matemáticas;10
+916258735;Steffano;Figueroa;I;Matemáticas;10
+976182723;Jose ;Murillo;I;Lenguaje;8
+981726354;Sofia ;Carriel;I;Lenguaje;10
+912983476;Karla ;Menendez;I;Lenguaje;7
+956438912;Xavier ;Jacome;I;Lenguaje;8
+916258735;Steffano;Figueroa;I;Lenguaje;9
+976182723;Jose ;Murillo;I;Inglés;8
+981726354;Sofia ;Carriel;I;Inglés;10
+912983476;Karla ;Menendez;I;Inglés;7
+956438912;Xavier ;Jacome;I;Inglés;10
+916258735;Steffano;Figueroa;I;Inglés;9
+976182723;Jose ;Murillo;I;Programación;8
+981726354;Sofia ;Carriel;I;Programación;7
+912983476;Karla ;Menendez;I;Programación;10
+956438912;Xavier ;Jacome;I;Programación;6
+916258735;Steffano;Figueroa;I;Programación;5
+976182723;Jose ;Murillo;I;Ciudadanía ;10
+981726354;Sofia ;Carriel;I;Ciudadanía ;8
+912983476;Karla ;Menendez;I;Ciudadanía ;7
+956438912;Xavier ;Jacome;I;Ciudadanía ;10
+916258735;Steffano;Figueroa;I;Ciudadanía ;10
+917255149;Diana ;Cornejo;II;Economía;10
+912764981;Raul;Cajon;II;Economía;8
+917527272;Luisa ;Rubio;II;Economía;9
+991827364;Rosa;Martinez;II;Economía;10
+901283746;Luis ;Carrion;II;Economía;7
+917255149;Diana ;Cornejo;II;Plataformas;9
+912764981;Raul;Cajon;II;Plataformas;7
+917527272;Luisa ;Rubio;II;Plataformas;10
+991827364;Rosa;Martinez;II;Plataformas;8
+901283746;Luis ;Carrion;II;Plataformas;8
+917255149;Diana ;Cornejo;II;Programación;10
+912764981;Raul;Cajon;II;Programación;8
+917527272;Luisa ;Rubio;II;Programación;7
+991827364;Rosa;Martinez;II;Programación;9
+901283746;Luis ;Carrion;II;Programación;8
+917255149;Diana ;Cornejo;II;Metodología;10
+912764981;Raul;Cajon;II;Metodología;9
+917527272;Luisa ;Rubio;II;Metodología;10
+991827364;Rosa;Martinez;II;Metodología;10
+901283746;Luis ;Carrion;II;Metodología;10
+917255149;Diana ;Cornejo;II;Contabilidad;9
+912764981;Raul;Cajon;II;Contabilidad;8
+917527272;Luisa ;Rubio;II;Contabilidad;7
+991827364;Rosa;Martinez;II;Contabilidad;8
+901283746;Luis ;Carrion;II;Contabilidad;7
+982368493;Fatima ;Salón;III;Base de datos;9
+987235167;Fernando ;Quijije;III;Base de datos;8
+965476348;Carlos;Mendez;III;Base de datos;10
+985245775;Leonel;Salvatierra;III;Base de datos;9
+988542367;Gabriela;Burgos;III;Base de datos;7
+982368493;Fatima ;Salón;III;Negocios ;8
+987235167;Fernando ;Quijije;III;Negocios ;7
+965476348;Carlos;Mendez;III;Negocios ;9
+985245775;Leonel;Salvatierra;III;Negocios ;7
+988542367;Gabriela;Burgos;III;Negocios ;8
+982368493;Fatima ;Salón;III;Objetos programados;8
+987235167;Fernando ;Quijije;III;Objetos programados;9
+965476348;Carlos;Mendez;III;Objetos programados;10
+985245775;Leonel;Salvatierra;III;Objetos programados;9
+988542367;Gabriela;Burgos;III;Objetos programados;7
+982368493;Fatima ;Salón;III;Método digital;8
+987235167;Fernando ;Quijije;III;Método digital;9
+965476348;Carlos;Mendez;III;Método digital;9
+985245775;Leonel;Salvatierra;III;Método digital;7
+988542367;Gabriela;Burgos;III;Método digital;8
+982368493;Fatima ;Salón;III;Emprendimiento;9
+987235167;Fernando ;Quijije;III;Emprendimiento;10
+965476348;Carlos;Mendez;III;Emprendimiento;9
+985245775;Leonel;Salvatierra;III;Emprendimiento;10
+988542367;Gabriela;Burgos;III;Emprendimiento;10
+975443567;Maria;Cedeño;IV;Estadística;9
+987523562;Ismael;Aguilar;IV;Estadística;10
+976422456;Alberto;Arias;IV;Estadística;8
+987643235;Maximo;Morales;IV;Estadística;10
+964246798;stefanny;Perez;IV;Estadística;9
+975443567;Maria;Cedeño;IV;Bódega de datos;8
+987523562;Ismael;Aguilar;IV;Bódega de datos;7
+976422456;Alberto;Arias;IV;Bódega de datos;8
+987643235;Maximo;Morales;IV;Bódega de datos;7
+964246798;stefanny;Perez;IV;Bódega de datos;9
+975443567;Maria;Cedeño;IV;Gestión;10
+987523562;Ismael;Aguilar;IV;Gestión;9
+976422456;Alberto;Arias;IV;Gestión;8
+987643235;Maximo;Morales;IV;Gestión;9
+964246798;stefanny;Perez;IV;Gestión;8
+975443567;Maria;Cedeño;IV;Análisis financiero;8
+987523562;Ismael;Aguilar;IV;Análisis financiero;9
+976422456;Alberto;Arias;IV;Análisis financiero;10
+987643235;Maximo;Morales;IV;Análisis financiero;9
+964246798;stefanny;Perez;IV;Análisis financiero;9
+975443567;Maria;Cedeño;IV;Tecnología;9
+987523562;Ismael;Aguilar;IV;Tecnología;10
+976422456;Alberto;Arias;IV;Tecnología;7
+987643235;Maximo;Morales;IV;Tecnología;8
+964246798;stefanny;Perez;IV;Tecnología;7
